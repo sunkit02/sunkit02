@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunkit02
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java, Spring Framework, and Python
+- 🌱 I’m currently learning Java, Spring Framework, Python, Javascript, Typescript, and Rust!
 <!-- - 📫 You can reach me through my personal email  -->
 
 <!---
